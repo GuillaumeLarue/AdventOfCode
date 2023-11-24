@@ -2,7 +2,7 @@ import re
 
 
 def part1(s: str) -> str:
-    # game = [['Z', 'N'], ['M','C', 'D'], ['P']]
+    # game = [['Z', 'N'], ['M','C', 'D'], ['P']] # input_test
     game = [['F', 'H', 'B', 'V', 'R', 'Q', 'D', 'P'],
             ['L', 'D', 'Z', 'Q', 'W', 'V'],
             ['H', 'L', 'Z', 'Q', 'G', 'R', 'P', 'C'],
